@@ -1,3 +1,3 @@
 # dumpsearch
 
-Intended for educational use only
+For educational use only
