@@ -9,4 +9,4 @@ WHY?
 use only on zstd compressed files
 chmod +x dsearch.sh
 vi dsearch.sh --> change directory where your zstd files are located
-./dsearch.sh -s <searchphrase> -o <outputfile>
+./dsearch.sh -s searchphrase -o outputfile
